@@ -1,0 +1,5 @@
+to install docker 
+-yum install docker
+
+to check the image running in docker
+docker ps
